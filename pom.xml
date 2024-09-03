@@ -14,6 +14,7 @@
 		<maven.compiler.target.version>17</maven.compiler.target.version>
 		<maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
 		<aspectj.version>1.9.20.1</aspectj.version>
+		<sonar.java.libraries>target</sonar.java.libraries>
 	</properties>
 
 	<dependencies>
